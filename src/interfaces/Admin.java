@@ -21,9 +21,6 @@ public class Admin extends javax.swing.JFrame {
 
 //    Utilidades md5 = new Utilidades();
 
-    /**
-     * Creates new form Usuarios
-     */
     public Admin() {
         initComponents();
         this.setLocationRelativeTo(null);
