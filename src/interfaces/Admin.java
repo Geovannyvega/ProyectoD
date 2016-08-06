@@ -13,10 +13,6 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 
-/**
- *
- * @author Usuario
- */
 public class Admin extends javax.swing.JFrame {
 
 //    Utilidades md5 = new Utilidades();
